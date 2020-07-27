@@ -1,4 +1,6 @@
-# iban-checker-io project
+# Quarkus with VUEJS
+
+Just clone this repo and start coding Quarkus with Vuejs. Happy coding.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

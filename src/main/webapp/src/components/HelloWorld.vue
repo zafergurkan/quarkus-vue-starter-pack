@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Zafer Bilal Gürkan Test Yapıyorum :ÇD :D: D:D
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Zafer Gurkan on Github :
+      <a href="https://github.com/zafer-v3" target="_blank" rel="noopener">zafer-v3</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
